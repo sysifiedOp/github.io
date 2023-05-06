@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient (45 deg, red, orange, yellow, blue, green, indigo, violet);
+}
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: phosphate, impact;
+}
